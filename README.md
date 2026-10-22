@@ -4070,6 +4070,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![ValorAI MCP connector](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jchacker5/valor-mcp)
   🔓 - Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checklist, rating math.
 - [Zip1](https://zip1.io) `https://zip1.io/mcp`
+- [Reggiebro/hermes-micro-agent-mcp](https://github.com/Reggiebro/hermes-micro-agent-mcp) 🐍 ☁️ - 20 x402-paid AI and data micro-tasks over MCP: free `tasks`, `price`, `verify` and `health` tools for discovery, plus a paid `execute` tool that requires a real USDC payment on Base before running. Unimplemented tasks are refused rather than faked.
   🔓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
 
 ## Community
